@@ -18,7 +18,7 @@ Finally, in the last mini-project you'll be mimicking the steps you'll take duri
 
 ### Summary
 
-In this step we will create a repository on GitHUB.
+In this step we will create a repository on GitHub.
 
 ### Instructions
 
